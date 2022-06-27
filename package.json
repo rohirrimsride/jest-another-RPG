@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Battling the forces of darkness...will you prevail?",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohirrimsride/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "rohirrimsride",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohirrimsride/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/rohirrimsride/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
